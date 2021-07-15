@@ -1,0 +1,11 @@
+
+################################################################################################################################################
+Starting Execution:	[1 out of 3] test cases in the current suite
+Test Method:		[TC.Registrations_Suits.TC_Registreation_API.checkuser]
+################################################################################################################################################
+[ReportManager] Response status code: [200], status line: [HTTP/1.1 200 OK] @13-07-2021 13:44:35.0463 PM
+[ReportManager] Assertion Passed: Evaluating the actual response status code against the expected one... @13-07-2021 13:44:35.0779 PM
+[ReportManager] Assertion [ValidateEquals] PASSED. Expected [200] and Actual [200]. Comparison Type [EQUALS]. Validation Type [POSITIVE]. @13-07-2021 13:44:35.0818 PM
+[ReportManager] API Action [PerformRequest] successfully performed. With the following test data [Request Type: "POST" | Target Status Code: "200" | Service URL: "https://devbackend.devstagging.online:9090/api/checkUser" | Content Type: "application/json" | Response Time: "3824ms"]. @13-07-2021 13:44:39.0310 PM
+[ReportManager] Successfully created attachment [API Request - JSON Body] @13-07-2021 13:44:40.0329 PM
+[ReportManager] Successfully created attachment [API Response - JSON Body] @13-07-2021 13:44:40.0389 PM
